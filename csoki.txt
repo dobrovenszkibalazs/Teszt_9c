@@ -3,3 +3,4 @@ kerek
 szög
 fehér
 vmi
+kutya
